@@ -1,0 +1,13 @@
+id,name,birth_year,gender,height,hair_color,homeworld,picture_url
+1,Luke Skywalker,19BBY,male,172,blond,Tatooine,https://starwars-visualguide.com/assets/img/characters/1.jpg
+2,C-3PO,112BBY,n/a,167,n/a,Tatooine,https://starwars-visualguide.com/assets/img/characters/2.jpg
+4,Darth Vader,41.9BBY,male,202,none,Tatooine,https://starwars-visualguide.com/assets/img/characters/4.jpg
+3,R2-D2,33BBY,n/a,96,n/a,Naboo,https://starwars-visualguide.com/assets/img/characters/3.jpg
+5,Leia Organa,19BBY,female,150,brown,Alderaan,https://starwars-visualguide.com/assets/img/characters/5.jpg
+6,Owen Lars,52BBY,male,178,"brown,grey",Tatooine,https://starwars-visualguide.com/assets/img/characters/6.jpg
+7,Obi-Wan Kenobi,57BBY,male,182,auburn,Stewjon,https://starwars-visualguide.com/assets/img/characters/10.jpg
+8,Anakin Skywalker,41.9BBY,male,188,blond,Tatooine,https://starwars-visualguide.com/assets/img/characters/11.jpg
+9,Chewbacca,200BBY,male,228,brown,Kashyyyk,https://starwars-visualguide.com/assets/img/characters/13.jpg
+10,Han Solo,29BBY,male,180,brown,Corellia,https://starwars-visualguide.com/assets/img/characters/14.jpg
+11,Yoda,896BBY,male,66,white,unknown,https://starwars-visualguide.com/assets/img/characters/20.jpg
+12,Padmé Amidala,46BBY,female,185,brown,Naboo,https://starwars-visualguide.com/assets/img/characters/35.jpg
