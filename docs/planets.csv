@@ -1,7 +1,7 @@
 id,planet_name,population,climate,diameter,gravity,picture_url
-2,Naboo,4500000000,temperate,12120,1 standard,https://starwars-visualguide.com/assets/img/planets/8.jpg
 1,Tatooine,200000,arid,10465,1 standard,https://static.wikia.nocookie.net/esstarwars/images/b/b0/Tatooine_TPM.png/revision/latest?cb=20131214162357
 3,Alderaan,2000000000,temperate,12500,1 standard,https://starwars-visualguide.com/assets/img/planets/2.jpg
 4,Stewjon,200000,temperate,,1 standard,https://holopedia.de/thumb.php?f=PlanetStewjon.jpg&width=250
 5,Kashyyyk,45000000,tropical,12765,1 standard,https://starwars-visualguide.com/assets/img/planets/14.jpg
 6,Corellia,3000000000,temperate,11000,1 standard,https://static.wikia.nocookie.net/esstarwars/images/d/d7/Corellia-SWCT.png
+8,Naboo,4500000000,temperate,12120,1 standard,https://starwars-visualguide.com/assets/img/planets/8.jpg

@@ -1,0 +1,4 @@
+id,email,password,is_active,user_name,full_name
+2,Rigo@yhoo.com,1234,t,Rigo,Rigo Bot
+3,JohnnyGeek@4geeks.com,1234,t,Johnny,Johnny Walker
+4,Mickey@disney.com,1234,t,Mickey,Mickey Mouse

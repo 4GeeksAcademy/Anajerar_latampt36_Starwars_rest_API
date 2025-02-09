@@ -9,5 +9,5 @@ id,name,birth_year,gender,height,hair_color,homeworld,picture_url
 8,Anakin Skywalker,41.9BBY,male,188,blond,Tatooine,https://starwars-visualguide.com/assets/img/characters/11.jpg
 9,Chewbacca,200BBY,male,228,brown,Kashyyyk,https://starwars-visualguide.com/assets/img/characters/13.jpg
 10,Han Solo,29BBY,male,180,brown,Corellia,https://starwars-visualguide.com/assets/img/characters/14.jpg
-11,Yoda,896BBY,male,66,white,unknown,https://starwars-visualguide.com/assets/img/characters/20.jpg
 12,Padmé Amidala,46BBY,female,185,brown,Naboo,https://starwars-visualguide.com/assets/img/characters/35.jpg
+14,Yoda,896BBY,male,66,white,unknown,https://starwars-visualguide.com/assets/img/characters/20.jpg
